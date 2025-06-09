@@ -2,14 +2,14 @@
 
 Nadzrah adalah aplikasi web modern yang dirancang untuk membantu pelajar dan pengkaji teks Arab. Dengan memanfaatkan teknologi AI, aplikasi ini mampu memindai gambar berisi teks Arab gundul (tanpa harakat) dan secara otomatis memberikan harakat, terjemahan, serta analisis gramatikal (Nahwu & Shorof) dasar.
 
-✨ **[Lihat Demo Langsung di Sini]([https://nadzrah.netlify.app])** ✨
+✨ **[Lihat Demo Langsung di Sini](https://nadzrah.netlify.app)** ✨
 
 ---
 
 ### Tampilan Aplikasi
 
 *Tambahkan screenshot atau GIF dari aplikasi Anda di sini untuk tampilan yang lebih menarik!*
-![Screenshot Aplikasi Nadzrah](https://i.imgur.com/your-screenshot.png)
+![Screenshot Aplikasi Nadzrah](https://imgur.com/QoftTyE)
 
 ---
 
