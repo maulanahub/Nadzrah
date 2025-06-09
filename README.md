@@ -8,8 +8,7 @@ Nadzrah adalah aplikasi web modern yang dirancang untuk membantu pelajar dan pen
 
 ### Tampilan Aplikasi
 
-*Tambahkan screenshot atau GIF dari aplikasi Anda di sini untuk tampilan yang lebih menarik!*
-![Screenshot Aplikasi Nadzrah](https://imgur.com/QoftTyE)
+![Screenshot Aplikasi Nadzrah](https://i.imgur.com/QoftTyE.png)
 
 ---
 
@@ -55,5 +54,5 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 
 **2. Clone Repositori**
 ```bash
-git clone [https://github.com/maulanahub/nadzrah.git](https://github.com/maulanahub/nadzrah.git)
+git clone https://github.com/maulanahub/nadzrah.git
 cd nadzrah
