@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.arabic-text {
+    font-family: 'Scheherazade New', serif;
+    font-size: 1.75rem; /* 28px */
+    line-height: 2.5rem; /* 40px */
+    direction: rtl;
+    text-align: right;
+}
