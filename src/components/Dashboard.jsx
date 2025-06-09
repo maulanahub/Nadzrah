@@ -11,7 +11,7 @@ export default function Dashboard({ session }) {
 
   return (
     <div className="bg-white rounded-2xl shadow-xl p-4 sm:p-6 my-4 w-full">
-      <div className="flex justify-between items-center pb-4 border-b border-slate-200">
+      <div className="flex justify-between items-center mb-6 pb-4 border-b border-slate-200">
         <div>
           <p className="text-sm text-slate-500">Selamat datang,</p>
           <p className="font-bold text-slate-800 break-all">{session.user.email}</p>
@@ -20,12 +20,13 @@ export default function Dashboard({ session }) {
           Logout
         </button>
       </div>
-
-      <SavedScans userId={session.user.id} />
+      
+      <KitabScanner userId={session.user.id} />
       
       <hr className="my-6 border-slate-200" />
 
-      <KitabScanner userId={session.user.id} />
+      <SavedScans userId={session.user.id} />      
+
     </div>
   );
 }
